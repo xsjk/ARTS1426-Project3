@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig>
+  <Tracking>
+    <ImageTarget name="teach" size="0.057000 0.085108" />
+    <ImageTarget name="produce" size="0.057000 0.085857" />
+    <ImageTarget name="research" size="0.085000 0.099334" />
+    <ImageTarget name="learn" size="0.085000 0.085861" />
+  </Tracking>
+</QCARConfig>
